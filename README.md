@@ -32,4 +32,4 @@ Metrics for models built from data where missing values were imputed
 - RMSE value for test from Random Forest = 0.494316830858078
 
 #### Random forest perfoms better in the 2nd case. Linear performs better in the 1st case.
-#### Thank you NPTEL and Prof. Rengaswamy and teaching assistants of course Python for Data Science. 
+#### Thank you NPTEL and Prof. Rengaswamy and teaching assistants from IIT - Madras of course Python for Data Science. 
